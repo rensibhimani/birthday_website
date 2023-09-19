@@ -1,3 +1,19 @@
+# BIRTHDAY PARTY 🎉
+
+
+
+![home](https://github.com/rensibhimani/birthday_website/assets/137809172/c28fbe93-e6ba-4fee-b988-ef2e25829dda)
+
+![head1](https://github.com/rensibhimani/birthday_website/assets/137809172/1a64a9e4-073b-4be3-9d9f-aec955e02a1d)
+
+![head2](https://github.com/rensibhimani/birthday_website/assets/137809172/6ff88358-364b-45bb-bac3-06e9aa3e621f)
+
+![post](https://github.com/rensibhimani/birthday_website/assets/137809172/4491897e-267b-4fd8-baf8-4b5f86ca19b2)
+
+![write](https://github.com/rensibhimani/birthday_website/assets/137809172/a7c3c181-69e4-4761-a6b3-78f339765bf6)
+
+![login](https://github.com/rensibhimani/birthday_website/assets/137809172/0ad829c9-d0ea-4efd-83cd-6b7ab6bb075a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
